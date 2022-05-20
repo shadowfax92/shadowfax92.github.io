@@ -35,7 +35,7 @@ analytics-google: 'UA-114116369-1'
 
 # if you don't have any of social below, comment the line
 facebook: nikhilsv92
-twitter: nikhilsonti
+# twitter: nikhilsonti
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -50,7 +50,7 @@ github: shadowfax92
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: nikhilsv92@gmail.com
+email: nikhil.sonti@gmail.com
 
 authors:
     johndoe:
